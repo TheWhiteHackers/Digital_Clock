@@ -2,6 +2,6 @@
 
 ## This is a digital clock
 
-## Created using javascript
+## Created using javascript and some HTML
 
 ### Made by TheWhiteHacker
