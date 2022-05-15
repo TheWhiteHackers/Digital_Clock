@@ -1,0 +1,20 @@
+body{
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: black;
+    align-items: center;
+    height: 90vh;
+    font-family: 'Orbitron', sans-serif;
+}
+#myclock{
+    font-size: 100px;
+    font-family: 'Orbitron', sans-serif;
+    border: inset red;
+    padding: 30px;
+    border-radius: 20px;
+}
+p{
+    font-weight: 200;
+}
