@@ -5,3 +5,5 @@
 ## Created using JavaScript and some HTML
 
 ### Made by TheWhiteHackers
+
+![clock](DigitalClock.png)
