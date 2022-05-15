@@ -4,9 +4,10 @@ function showtime(){
     // console.log(date.getHours(), date.getMinutes());
 
 
-    const hour = date.getHours();
+    var hour = date.getHours();
     var minute = date.getMinutes();
     var timepass = "AM";
+    //var sec = date.getSeconds();
 
 
     if (hour>=12){timepass = "PM"}
