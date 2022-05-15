@@ -4,4 +4,4 @@
 
 ## Created using JavaScript and some HTML
 
-### Made by TheWhiteHacker
+### Made by TheWhiteHackers
